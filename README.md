@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Supakorn Rungket
-- 👀 I’m interested in front-end web
+- 👀 I’m interested in front-end web and 3D Modeling
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -> supakorn1999@hotmail.com
